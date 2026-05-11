@@ -7,7 +7,7 @@ The Fix: This tool acts as a "clean up" brick. It forces top AI engines to compr
 
 Minor Notes:
 
-BYO key to swap between Anthropic, Gemini, OpenAI, Deepseek, Groq, and OpenRouter models based on your token budget. Recommended to use an LLM seperate from the current conversation to provide the best results.
+BYO key to swap between Anthropic, Gemini, OpenAI, DeepSeek, Groq, and OpenRouter models based on token budget. Routing data through a secondary, independent model breaks the "echo-chamber" effect, so distillation is free bias from your primary conversational AI.
 
 100% static execution. API keys and document parsing (drag-and-drop .pdf and .docx) run entirely locally in the browser with zero backend.
 
