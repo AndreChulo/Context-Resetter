@@ -12,3 +12,7 @@ BYO key to swap between Anthropic, Gemini, OpenAI, DeepSeek, Groq, and OpenRoute
 100% static execution. API keys and document parsing (drag-and-drop .pdf and .docx) run entirely locally in the browser with zero backend.
 
 Bypasses standard "lossy compression" by forcing models to categorize unstructured dumps into a rigid, non-conversational format.
+
+
+TLDR:
+Cure LLM context degradation and recency bias. When chat windows bloat, AI loses the original signal. The Context Resetter acts as a "clean up" brick, compressing rambling chats, Zoom transcripts, and messy notes into rigid, structured briefings. • 100% Local: Static execution with zero backend. • BYO-Key: Multi-model support (Anthropic, OpenAI, DeepSeek, etc.). • Unbiased: Routing through a secondary model breaks "echo-chamber" bias to start fresh, hallucination-free sessions.
